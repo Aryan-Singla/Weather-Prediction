@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+    padding-top: 200px;
+}
+
+.heading {
+    font-family: 'Fredoka One', cursive;
+    font-size: 40px;
+    font-weight: 600;
+    padding: 50px;
+}
